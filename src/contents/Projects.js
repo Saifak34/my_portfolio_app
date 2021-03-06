@@ -11,7 +11,7 @@ class Projects extends Component {
           <ul>
             <li>
               <a href="https://photogram34.herokuapp.com/" target="blank">
-                Photogram Application <p>(React and Firebase)</p>
+                PictureGram Application <p>(React and Firebase)</p>
               </a>
             </li>
             <li>
