@@ -13,13 +13,6 @@ class Social extends Component {
   render() {
     return (
       <div className="social">
-        <a href="" target="_blank">
-          <FontAwesomeIcon
-            icon={faTwitter}
-            style={{ color: "skyblue" }}
-            size="2x"
-          />
-        </a>
         <a href="https://github.com/Saifak34" target="_blank">
           <FontAwesomeIcon icon={faGithub} size="2x" />
         </a>
@@ -53,3 +46,11 @@ class Social extends Component {
 }
 
 export default Social;
+
+/*<a href="" target="_blank">
+          <FontAwesomeIcon
+            icon={faTwitter}
+            style={{ color: "skyblue" }}
+            size="2x"
+          />
+        </a> */

@@ -86,7 +86,7 @@ p {
 .social {
   position: absolute;
   margin-top: 20px;
-  margin-left: 100px;
+  margin-left: 5px;
   display: flex;
   bottom: 60px;
 }
