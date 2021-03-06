@@ -8,18 +8,17 @@ class About extends Component {
           <h4>Hey there,</h4>
           <h1>I'm Saifalikhan Pathan</h1>
           <h3>
-            Full Stack Web <u>Developer</u> | UI/UX <u>Designer</u>
+            Full Stack Web <u>Developer</u>
           </h3>
           <br></br>
           <p>
-            I always wanted to learn fullstack development and finally when I
-            got chance I started with Frontend Web Development specifically with
-            React.js. Since then It has been a great learning curve for me. I
-            have gone through some amazing online courses and tutorials taught
-            by some extraordinary developers and after that I have started
-            creating my own applications. I wish I will continue with such
-            passsion and I will continue to develop unique and robust
-            applications.
+            I have been learning Website Development since a while now,I started
+            my journey with Frontend Web Development specifically with React.js.
+            Since then It has been a great learning curve for me. I have had
+            opportunity to learn from some amazing developers and colleagues.I
+            have been creating different applications mostly using ReactJS and
+            Node.js. I wish I will continue to develop unique and interesting
+            web applications.
           </p>
         </div>
       </div>

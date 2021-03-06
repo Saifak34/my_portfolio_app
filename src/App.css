@@ -161,3 +161,26 @@ p {
   color: aqua;
   font-weight: bold;
 }
+
+/*projects*/
+
+.projects {
+  margin: 10px;
+  padding-top: 10px;
+}
+
+.projects ul li {
+  font-size: 25px;
+  color: aqua;
+  margin: 20px;
+}
+
+.projects ul li a {
+  color: #01ff70;
+}
+.projects ul li a p {
+  color: #ff4136;
+}
+.git {
+  margin-top: 250px;
+}
