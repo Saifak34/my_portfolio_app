@@ -22,7 +22,7 @@ nav {
   padding: 60px 30px 0px 30px;
   flex: var(--sidebar-flex);
   background: rgb(25, 0, 114);
-  background: linear-gradient(180deg, rgb(1, 16, 83) 50%, rgb(250, 61, 4) 80%);
+  background: linear-gradient(180deg, rgb(1, 12, 61) 50%, rgb(255, 0, 0) 80%);
 }
 .condiv {
   padding: 100px;
@@ -110,7 +110,8 @@ p {
 }
 .active {
   font-weight: bolder;
-  background-color: rgba(221, 83, 83, 0.5);
+  border-style: solid;
+  background-color: rgba(255, 10, 10, 0.5);
 }
 .skills ul li {
   list-style-type: none;
