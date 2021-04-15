@@ -23,6 +23,11 @@ class Projects extends Component {
               </a>
             </li>
             <li>
+              <a href="https://todoitemss.herokuapp.com/" target="blank">
+                A To-Do List Application <p>(React) </p>
+              </a>
+            </li>
+            <li>
               <a
                 href="https://saifalikhanportfolio.herokuapp.com/"
                 target="blank"
