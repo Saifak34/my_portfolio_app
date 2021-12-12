@@ -40,11 +40,6 @@ class Projects extends Component {
                 Recipe Application with edmam API <p>(React) </p>
               </a>
             </li>
-            <li>
-              <a href="https://todoitemss.herokuapp.com/" target="blank">
-                A To-Do List Application <p>(React) </p>
-              </a>
-            </li>
           </ul>
         </div>
 
