@@ -35,6 +35,16 @@ class Projects extends Component {
                 Portfolio using React <p>(React) </p>
               </a>
             </li>
+            <li>
+              <a href="https://github.com/Saifak34/recipe-app/tree/main/src" target="blank">
+                Recipe Application with edmam API <p>(React) </p>
+              </a>
+            </li>
+            <li>
+              <a href="https://todoitemss.herokuapp.com/" target="blank">
+                A To-Do List Application <p>(React) </p>
+              </a>
+            </li>
           </ul>
         </div>
 
